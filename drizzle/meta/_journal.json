@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1761048495460,
+      "tag": "0000_yummy_wonder_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1762402573540,
+      "tag": "0001_soft_professor_monster",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1762408237899,
+      "tag": "0002_nervous_meltdown",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1762417115089,
+      "tag": "0003_previous_gauntlet",
+      "breakpoints": true
+    }
+  ]
+}

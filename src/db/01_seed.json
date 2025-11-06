@@ -1,0 +1,97 @@
+{
+  "users": [
+    { "id": 1, "name": "Bob", "email": "bob@cstj.qc.ca" },
+    { "id": 2, "name": "Jimmy", "email": "jimmy@cstj.qc.ca" },
+    { "id": 3, "name": "Loulou", "email": "loulou@cstj.qc.ca" },
+    { "id": 4, "name": "Mélanie", "email": "melanie@cstj.qc.ca" },
+    { "id": 5, "name": "Nico", "email": "nico@cstj.qc.ca" },
+    { "id": 6, "name": "Sara", "email": "sara@cstj.qc.ca" }
+  ],
+
+  "messages": [
+    {
+      "id": "62c4ee13-a6e5-4a05-a065-1d9705b94d75",
+      "text": "Salut tout le monde!",
+      "userId": 3
+    },
+    {
+      "id": "a39a4b80-b9bd-4e4e-9d10-1cb8ae1a1b23",
+      "text": "Salut Loulou!",
+      "userId": 1
+    },
+    {
+      "id": "c12f8939-2159-451b-b358-3eeaf2a12bf5",
+      "text": "Hey hey!",
+      "userId": 2
+    },
+    {
+      "id": "8a6c9d56-21c0-48d7-b3e8-1821b01d0841",
+      "text": "Le serveur général est tranquille aujourd’hui 😴",
+      "userId": 1
+    },
+    {
+      "id": "4be9a372-95c3-4987-8b3d-40f2afc6b4f3",
+      "text": "C’est lundi, tout le monde survit.",
+      "userId": 4
+    },
+    {
+      "id": "e2a88a94-9c2c-4f1c-96db-78ec15f4d83a",
+      "text": "Haha ouais, besoin de café!",
+      "userId": 3
+    },
+
+    {
+      "id": "d18fa84e-72cb-49c1-bcf9-69a7b27a061a",
+      "text": "Quelqu’un a vu la nouvelle expo au musée?",
+      "userId": 3
+    },
+    {
+      "id": "b6e7dc77-7e23-4a41-83b2-7856b5ad01de",
+      "text": "Oui! L’installation de lumières était superbe.",
+      "userId": 5
+    },
+    {
+      "id": "a4f7d81b-f7b1-4f3e-86ed-94f2c53cb184",
+      "text": "J’ai adoré la section photo. Super mise en scène.",
+      "userId": 3
+    },
+
+    {
+      "id": "d4e0f7f2-510c-4d6f-98b8-9241c0f8f755",
+      "text": "Quelqu’un a testé le nouveau cours de yoga du Cégep?",
+      "userId": 4
+    },
+    {
+      "id": "5d62b2e0-2e5a-4e5f-9b73-002c2f1a6b22",
+      "text": "Oui, très relaxant! Et gratuit en plus 😌",
+      "userId": 6
+    },
+
+    {
+      "id": "1a49f95b-3b3b-4d12-98a1-b96c372de9a8",
+      "text": "Le match des Griffons hier 😱 incroyable!",
+      "userId": 2
+    },
+    {
+      "id": "b9cb5c10-1a39-4c25-b8b8-3eab87321e60",
+      "text": "Oui! Le but en prolongation, j’en reviens pas.",
+      "userId": 6
+    },
+
+    {
+      "id": "2f77c829-6a0e-4af1-b5c5-c273c4e21df7",
+      "text": "Quelqu’un a essayé la nouvelle mise à jour de Next.js?",
+      "userId": 1
+    },
+    {
+      "id": "b97e2bda-9e32-4a8a-8473-58a1229f0a27",
+      "text": "Oui, les server actions sont plus stables maintenant.",
+      "userId": 5
+    },
+    {
+      "id": "0d4cb154-cb73-4c2b-9c2b-67c11b4b73e8",
+      "text": "J’ai eu un bug avec useOptimistic 😅",
+      "userId": 1
+    }
+  ]
+}
